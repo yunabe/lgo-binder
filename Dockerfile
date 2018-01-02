@@ -1,3 +1,3 @@
-FROM yunabe/lgo:20171230
+FROM yunabe/lgo:20180102
 
 WORKDIR $GOPATH/src/github.com/yunabe/lgo/examples
